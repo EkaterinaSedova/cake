@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2601d9ca-6e2b-4f9a-8c37-4620e457c9ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
@@ -50,6 +55,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.18.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/tablet/chatic/web-chat&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,6 +96,16 @@
       <workItem from="1683202299572" duration="3010000" />
       <workItem from="1683229531871" duration="96000" />
       <workItem from="1683370471957" duration="1134000" />
+      <workItem from="1683373520816" duration="361000" />
+      <workItem from="1683375243624" duration="3000" />
+      <workItem from="1683375724933" duration="365000" />
+      <workItem from="1683376124235" duration="155000" />
+      <workItem from="1683376357541" duration="79000" />
+      <workItem from="1683376529774" duration="217000" />
+      <workItem from="1683403404948" duration="68000" />
+      <workItem from="1683403501646" duration="1610000" />
+      <workItem from="1683533735111" duration="529000" />
+      <workItem from="1683534287219" duration="26179000" />
     </task>
     <servers />
   </component>
