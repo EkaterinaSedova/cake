@@ -4,23 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2601d9ca-6e2b-4f9a-8c37-4620e457c9ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2601d9ca-6e2b-4f9a-8c37-4620e457c9ae" name="Changes" comment="'sdelala front (krome korziny) + http papka'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/biscuitController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/biscuitController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/cakeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/cakeController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/biscuitRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/biscuitRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/cakeRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/cakeRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/fillingRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/fillingRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.18.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/tablet/chatic/web-chat&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/tablet/shop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +69,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tablet\shop\client\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\tablet\shop" />
       <recent name="D:\tablet\shop\server" />
@@ -105,8 +105,29 @@
       <workItem from="1683403404948" duration="68000" />
       <workItem from="1683403501646" duration="1610000" />
       <workItem from="1683533735111" duration="529000" />
-      <workItem from="1683534287219" duration="26179000" />
+      <workItem from="1683534287219" duration="26309000" />
+      <workItem from="1683573961644" duration="1067000" />
+      <workItem from="1683614289575" duration="15882000" />
+      <workItem from="1683631530696" duration="204000" />
+      <workItem from="1683640135964" duration="5289000" />
+      <workItem from="1683697810182" duration="2128000" />
+      <workItem from="1683702678119" duration="1827000" />
+      <workItem from="1683722668761" duration="10000" />
+      <workItem from="1683724943668" duration="100000" />
+      <workItem from="1683725097310" duration="97000" />
+      <workItem from="1683747182499" duration="34000" />
+      <workItem from="1683748787799" duration="12000" />
+      <workItem from="1683748818101" duration="8000" />
+      <workItem from="1683748902245" duration="729000" />
     </task>
+    <task id="LOCAL-00001" summary="'sdelala front (krome korziny) + http papka'">
+      <created>1683563088305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683563088305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'sdelala front (krome korziny) + http papka'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'sdelala front (krome korziny) + http papka'" />
   </component>
 </project>

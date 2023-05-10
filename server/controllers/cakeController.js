@@ -1,4 +1,4 @@
-const {Cake} = require('../models/models')
+const {Cake, Filling} = require('../models/models')
 const ApiError = require('../error/ApiError')
 const uuid = require('uuid')
 const path = require('path')
@@ -47,6 +47,14 @@ class CakeController {
             }
         )
         return res.send(cake)
+    }
+    async deleteOne (req, res) {
+        const {id} = req.params
+        const cake = await Cake.destroy({where: {id}})
+        if(!cake) {
+            return  res.status(404).send({message: "Начинка не найдена."})
+        }
+        return res.send({message:"Удалено."})
     }
 }
 

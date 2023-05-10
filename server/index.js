@@ -20,10 +20,6 @@ app.use(express.json());
 app.use(express.urlencoded());
 app.use(express.static(path.resolve(__dirname, 'static')))
 app.use('/api', router)
-app.get('/', function (req, res) {
-    res.send("hui");
-});
-
 app.use(errorHandler)
 const start = async () => {
     try {
